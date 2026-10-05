@@ -1,6 +1,4 @@
-# flutter_application_ppb
-
-A new Flutter project.
+# Tugas Pemrograman Perangkat Bergerak
 
 ## Getting Started
 
